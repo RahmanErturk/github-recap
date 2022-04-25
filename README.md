@@ -1,5 +1,5 @@
 # github-recap
-Eine Wiederholung der wichtigsten GitHub Commandos
+Hier ist eine Wiederholung der wichtigsten GitHub Commandos
 
 ## workflow
 1. In mein Verzeichnis wechseln
